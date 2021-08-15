@@ -1,7 +1,9 @@
 ### Olá, eu sou a Jacqueline Rodrigues! 👋
 
-- 🔭 Atualmente, trabalho com Redes de Computadores
-- 🌱 Atualmente, estudo Python, Java e C++
+- 🔭 Atualmente trabalho com Redes de Computadores
+- 🧠 Sou professora de Redes de Computadores e outras tecnologias
+- 🌱 Atualmente estudo Python, Java e Shell Script
+- 😍 Meu sistema operacional preferido é Linux - Debian
 - ⚙  Sempre implementando a programação na área de Redes
 - 🎈 Criadora do podcast de Redes e Tecnologia - Interface Up!
 
