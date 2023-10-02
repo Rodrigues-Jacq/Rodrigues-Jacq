@@ -6,12 +6,6 @@
 - ⚙  Sempre automatizando tarefas em Linux
 - 🎈 Criadora do podcast e do youtube de Redes e Tecnologia - Interface Up
 
- <div>
-  <a href="https://github.com/Rodrigues-Jacq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigues-Jacq&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigues-Jacq&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
 ##
  
 <div> 
