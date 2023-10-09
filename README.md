@@ -1,7 +1,7 @@
 ### Olá, eu sou a Jacqueline Rodrigues! 👋
 
-- 🔭 Atualmente trabalho com Linux
-- 🌱 Atualmente estudo Python, Java e Shell Script
+- 🔭 Atualmente estou a procura de oportunidades!
+- 🌱 Atualmente estudo HTML, CSS, JavaScript e Shell Script
 - 😍 Meu sistema operacional preferido é Linux
 - ⚙  Sempre automatizando tarefas em Linux
 - 🎈 Criadora do podcast e do youtube de Redes e Tecnologia - Interface Up
