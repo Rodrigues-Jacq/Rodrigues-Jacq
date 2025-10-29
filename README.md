@@ -1,9 +1,8 @@
 ### Olá, eu sou a Jacqueline Rodrigues! 👋
 
-- 🔭 Atualmente sou SysAdmin Linux e Pesquisadora na área de Cybersegurança
-- 🌱 Atualmente estudo Shell Script e Python para automatização
+- 🔭 Atualmente sou SysAdmin Linux e trabalho com Infraestrutura de T.I.
+- 🌱 Atualmente estudo Git, GitHub, Terraform e Ansible
 - 😍 Meu sistema operacional preferido é Linux
-- ⚙  Sempre automatizando tarefas em Linux
 - 🎈 Criadora do podcast e do youtube de Redes e Tecnologia - Interface Up
 
 <div>
